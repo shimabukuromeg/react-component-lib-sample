@@ -16,7 +16,7 @@ $ yarn add react-component-lib-sample @emotion/react @emotion/styled
 
 ## example
 
-```
+```jsx
 import { Text } from 'react-component-lib-sample'
 
 <Text text="hello, world" />
@@ -25,6 +25,6 @@ import { Text } from 'react-component-lib-sample'
 ## develop component
 
 ```bash
-yarn install
-yarn run storybook
+$ yarn install
+$ yarn run storybook
 ```
